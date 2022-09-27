@@ -1,0 +1,21 @@
+{
+  "name": "Mexican_Trains",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "8"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws": "0.0.3-2",
+    "aws-sdk": "^2.1096.0",
+    "prompt-sync": "^4.2.0",
+    "sdk": "^0.5.0"
+  }
+}
